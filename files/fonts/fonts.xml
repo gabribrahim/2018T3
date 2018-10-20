@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="FontAwesome" className="" url="./files/fonts/font-0-0-2018102104136184.swf" ttfurl="./files/fonts/font-0-0-2018102104136184.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-1-0-2018102104136195.swf" ttfurl="./files/fonts/font-1-0-2018102104136195.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-1-1-2018102104136206.swf" ttfurl="./files/fonts/font-1-1-2018102104136206.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-2-0-2018102104136231.swf" ttfurl="./files/fonts/font-2-0-2018102104136231.ttf"/>
+  </fonts>
+</data>
