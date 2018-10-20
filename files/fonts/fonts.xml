@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="Webding" className="" url="./files/fonts/font-0-0-201883063117761.swf" ttfurl="./files/fonts/font-0-0-201883063117761.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-1-0-201883063117784.swf" ttfurl="./files/fonts/font-1-0-201883063117784.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-1-1-201883063117806.swf" ttfurl="./files/fonts/font-1-1-201883063117806.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMES" url="./files/fonts/font-2-0-201883063117835.swf" ttfurl="./files/fonts/font-2-0-201883063117835.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBD" url="./files/fonts/font-2-1-201883063118237.swf" ttfurl="./files/fonts/font-2-1-201883063118237.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBI" url="./files/fonts/font-2-2-201883063118622.swf" ttfurl="./files/fonts/font-2-2-201883063118622.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESI" url="./files/fonts/font-2-3-2018830631194.swf" ttfurl="./files/fonts/font-2-3-2018830631194.ttf"/>
+    <font name="FontAwesome" className="" url="./files/fonts/font-3-0-201883063119387.swf" ttfurl="./files/fonts/font-3-0-201883063119387.ttf"/>
+  </fonts>
+</data>
